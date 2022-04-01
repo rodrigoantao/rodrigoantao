@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rodrigoantao
 - 👀 I’m interested in cybersecurity, risk management, corporate governance, enterpreunership
-- 🌱 I’m currently learning government affairs
+- 🌱 I’m currently learning government and international affairs
 - 💞️ I’m looking to collaborate on building towards a world driven by secure data
 - 📫 Reach me at falecom@rodrigoantao.com
 
